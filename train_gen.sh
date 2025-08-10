@@ -8,7 +8,7 @@ python main.py    --version 2\
                   --num_nodes 1 \
                   --num_data_workers 4 \
                   --lr 1e-4 \
-                  --batch_size 11 \
+                  --batch_size 2 \
                   --num_sanity_val_steps 0 \
                   --fast_dev_run 0 \
                   --overfit_batches 0 \
