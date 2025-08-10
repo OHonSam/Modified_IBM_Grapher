@@ -19,7 +19,7 @@ python main.py    --version 2\
                   --detect_anomaly True \
                   --data_path webnlg-dataset/release_v3.0/en \
                   --log_every_n_steps 100 \
-                  --val_check_interval 712 \
+                  --val_check_interval 475 \
                   --checkpoint_step_frequency 1000 \
                   --focal_loss_gamma 3 \
                   --dropout_rate 0.5 \
